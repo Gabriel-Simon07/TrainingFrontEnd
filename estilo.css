@@ -10,10 +10,15 @@ p, h1{
     text-align: center;
 }
 
+#imagem{
+    width: 100%;
+}
+
 #missao{
     font-size: 20px;
 }
 
-#imagem{
-    align-items: center;
+h2{
+    text-align: center;
 }
+
