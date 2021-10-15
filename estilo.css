@@ -1,7 +1,3 @@
-body{
-    background-color: aqua;   
-}
-
 em strong{
    color: red;
 }
@@ -20,5 +16,17 @@ p, h1{
 
 h2{
     text-align: center;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.beneficios{
+    background-color: tomato;
+}
+
+.principal{
+    background-color: aqua;  
 }
 
