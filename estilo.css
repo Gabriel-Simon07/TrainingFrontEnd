@@ -24,9 +24,21 @@ h2{
 
 .beneficios{
     background-color: tomato;
+    padding: 20px;
 }
 
 .principal{
     background-color: aqua;  
+    padding: 30px;
 }
 
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+#imagemBeneficios{
+    width: 50%;
+}
