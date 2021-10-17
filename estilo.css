@@ -2,7 +2,11 @@ em strong{
    color: red;
 }
 
-p, h1{
+h1{
+    padding: 20px;
+}
+
+p, h2{
     text-align: center;
 }
 
@@ -12,10 +16,6 @@ p, h1{
 
 #missao{
     font-size: 20px;
-}
-
-h2{
-    text-align: center;
 }
 
 .itens{
