@@ -28,10 +28,27 @@ nav a {
     text-decoration: none;
 }
 
+nav a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
 .produtos {
     width: 940px;
     margin: 0 auto;
     padding: 50px 0;
+}
+
+.produtos li:hover {
+    border-color: blue;
+}
+
+.produtos li:active {
+    border-color: green;
+}
+
+.produtos li:hover h2{
+    font-size: 40px;
 }
 
 .produtos li {
